@@ -139,8 +139,7 @@ This project can be deployed on:
 
 **Abhishek Mishra**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
+
 
 ---
 
